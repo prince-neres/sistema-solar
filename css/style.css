@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;1,300&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+}
+
+div{
+  padding: 10vh;
+}
+
+p{
+  padding-bottom: 10vh;
+}
+
+img {
+  max-width: 100%;
+  animation:  spin 30s linear infinite;
+}
+
+li {
+  list-style: none;
+}
+
+body {
+  background: url("../img/space.jpg") no-repeat top center;
+  background-attachment: fixed;
+  background-size: cover;
+  color: #F5F5F5;
+}
+
+.copyright {
+  color: #F5F5F5;
+  padding-bottom: 20vh;
+  text-align: center;
+}
+
+@keyframes spin {
+  to {transform: rotate(360deg); }
+}
