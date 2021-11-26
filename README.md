@@ -5,4 +5,4 @@
 </div><br>
 
 Site simples onde descreve a estrela e os planetas do nosso sistema solar.   
-#### Acesse em: <https://sistema-solar-theta.vercel.app>.
+Acesse em: <https://sistema-solar-theta.vercel.app>.
