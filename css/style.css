@@ -18,6 +18,7 @@ p{
 img {
   max-width: 100%;
   animation:  spin 30s linear infinite;
+  filter: drop-shadow(0 0 0.5rem white);
 }
 
 li {
